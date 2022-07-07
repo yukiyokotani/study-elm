@@ -18,7 +18,10 @@
   "homepage": "https://github.com/yukiyokotani/study-elm#readme",
   "dependencies": {
     "elm": "^0.19.1-5",
-    "sass": "^1.53.0",
+    "sass": "^1.53.0"
+  },
+  "devDependencies": {
+    "elm-format": "^0.8.5",
     "vite": "^2.9.13",
     "vite-plugin-elm": "^2.6.1"
   }
